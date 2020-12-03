@@ -1,0 +1,6 @@
+module Pods_delightree {
+  umbrella header "Pods-delightree-umbrella.h"
+
+  export *
+  module * { export * }
+}
